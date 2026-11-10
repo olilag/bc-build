@@ -1,3 +1,7 @@
 [submodule "musl-cross-make"]
 	path = musl-cross-make
 	url = git@github.com:richfelker/musl-cross-make.git
+[submodule "cpython-2.7"]
+	path = cpython-2.7
+	url = git@github.com:olilag/cpython.git
+	branch = dev-2.7
